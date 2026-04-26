@@ -16,7 +16,9 @@ It covers all major rate-limiting strategies with real-world configuration, clea
 - ✅ Concurrency Limiting  
 - ✅ Partitioned Rate Limiting (per IP / user)  
 - ✅ Config-driven setup via `appsettings.json`  
-- ✅ Custom 429 response handling  
+- ✅ Custom 429 response handling
+
+  <img width="1908" height="515" alt="ShareX_3oBFXPnJii" src="https://github.com/user-attachments/assets/af83da2b-a5c2-4a86-8c9b-7410c80bba3c" />
 
 ---
 
